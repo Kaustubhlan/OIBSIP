@@ -1,0 +1,29 @@
+.head
+{
+    background-color: black;
+    color: azure;
+}
+.caption
+{
+    
+    font-size: large;
+    background-color: white;
+}
+.foot
+{
+    background-color: black;
+    color: azure;
+}
+body{
+    background-color: black;
+}
+p{
+    
+	line-height: 1.5;
+	margin: 0,auto;
+    width: 40%;
+    font-size: 1.2rem;
+    padding: 0 0 2rem 0;
+    border-bottom: 2px solid #ffff;
+
+}
